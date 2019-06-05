@@ -15,3 +15,5 @@ I have engaged with a number of career fields, from working a livestock auction 
   * Developed Android applications and server-side interfaces
 * Product Training Manager at Lavu, Inc.
   * Employee and customer Product Training,  Product Documentation, and UAT Testing Program Development
+  
+![Experience](img/Experience.png)  
