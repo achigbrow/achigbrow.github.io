@@ -1,7 +1,7 @@
 # Simple | Efficient | User Focus
 
 
-<img src="https://achigbrow.github.io/img/LaurenCheriePhotography___-12.jpg" width="125" align="left">
+<img src="https://achigbrow.github.io/img/LaurenCheriePhotography___-12.jpg" width="100" align="left">
 
 I am a budding developer, user advocate, and a QA Analyst by trade. I believe that everything we build should be simple both in code and in use, elegant, and useful. I am currently an undergraduate student in the Computer Science department at UNM.  
 
