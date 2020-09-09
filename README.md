@@ -1,6 +1,6 @@
 # Simple | Efficient | User Focus
 
-I am a budding developer, user advocate, and a QA Analyst by trade. I believe that everything we build should be simple to use, elegant, and useful. I am currently an undergraduate student in the Computer Science department at UNM.  
+I am a budding developer, user advocate, and a QA Analyst by trade. I believe that everything we build should be simple both in code and in use, elegant, and useful. I am currently an undergraduate student in the Computer Science department at UNM.  
 
 More information about me and my work can be found in my [LinkedIn](https://www.linkedin.com/in/alana-chigbrow-03a40996/).     
 
