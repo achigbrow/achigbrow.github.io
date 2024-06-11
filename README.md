@@ -1,5 +1,5 @@
 
-<img src="https://achigbrow.github.io/img/LaurenCheriePhotography___-12.jpg" width="200" align="left" style="float: right" hspce="35" vspace="35">
+<img src="https://achigbrow.github.io/img/LaurenCheriePhotography___-12.jpg" width="200" align="left" style="float: left" hspce="35" vspace="35">
 
 
 
@@ -8,36 +8,23 @@ Welcome to Alana's Portfolio
 
 Hello! I'm Alana, a passionate and experienced software developer specializing in simulation and modeling, machine learning, and mathematical analysis. I hold a Master’s degree in Computer Science from the University of New Mexico and have extensive experience in both industry and research settings. My expertise spans across various programming languages and technologies, and I am dedicated to creating innovative and high-quality software solutions.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Skills
 Programming Languages
-
 : Java, Python, C++, C, PHP, JavaScript, SQL
+
 Technologies & Tools
-
 : Docker, Kubernetes, MATLAB, Atlassian/Jira, Git, Visual Studio Code, IntelliJ IDEA, Xcode
+
 Specializations
-
 : Simulation and Modeling, Data Analysis, Mathematical Analysis
+
 Development
-
 : Containerized Deployments, DevSecOps, Release Management
+
 Quality Assurance
-
 : Software Testing, Troubleshooting, Bug Fixing, Quality Management
-DevOps
 
+DevOps
 : Continuous Integration/Continuous Deployment (CI/CD), DevSecOps
 
 ## Projects
