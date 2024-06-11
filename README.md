@@ -1,10 +1,24 @@
 
-<img src="https://achigbrow.github.io/img/LaurenCheriePhotography___-12.jpg" width="100" align="left">
+<img src="https://achigbrow.github.io/img/LaurenCheriePhotography___-12.jpg" width="200" align="left" style="float: right" hspce="35" vspace="35">
+
+
+
 
 Welcome to Alana's Portfolio
 
-## About Me
 Hello! I'm Alana, a passionate and experienced software developer specializing in simulation and modeling, machine learning, and mathematical analysis. I hold a Master’s degree in Computer Science from the University of New Mexico and have extensive experience in both industry and research settings. My expertise spans across various programming languages and technologies, and I am dedicated to creating innovative and high-quality software solutions.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Skills
 Programming Languages
