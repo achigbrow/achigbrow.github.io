@@ -8,12 +8,17 @@ Hello! I'm Alana, a passionate and experienced software developer specializing i
 
 ## Skills
 Programming Languages
-: Java, Python, C++, C, PHP, JavaScript, SQL |
-| Technologies & Tools | Docker, Kubernetes, MATLAB, Atlassian/Jira, Git, Visual Studio Code, IntelliJ IDEA, Xcode |
-| Specializations | Simulation and Modeling, Data Analysis, Mathematical Analysis |
-| Development | Containerized Deployments, DevSecOps, Release Management |
-| Quality Assurance | Software Testing, Troubleshooting, Bug Fixing, Quality Management |
-| DevOps | Continuous Integration/Continuous Deployment (CI/CD), DevSecOps |
+: Java, Python, C++, C, PHP, JavaScript, SQL
+Technologies & Tools
+: Docker, Kubernetes, MATLAB, Atlassian/Jira, Git, Visual Studio Code, IntelliJ IDEA, Xcode
+Specializations
+: Simulation and Modeling, Data Analysis, Mathematical Analysis
+Development
+: Containerized Deployments, DevSecOps, Release Management
+Quality Assurance
+: Software Testing, Troubleshooting, Bug Fixing, Quality Management
+DevOps
+: Continuous Integration/Continuous Deployment (CI/CD), DevSecOps
 
 ## Projects
 1. SARS-CoV Genetic Algorithm
