@@ -8,7 +8,7 @@ Hello! I'm Alana, a passionate and experienced software developer specializing i
 
 ## Skills
 | Skill | Description |
-| :------- | :----------|
+|:-------|:----------|
 | Programming Languages | Java, Python, C++, C, PHP, JavaScript, SQL |
 | Technologies & Tools | Docker, Kubernetes, MATLAB, Atlassian/Jira, Git, Visual Studio Code, IntelliJ IDEA, Xcode |
 | Specializations | Simulation and Modeling, Data Analysis, Mathematical Analysis |
