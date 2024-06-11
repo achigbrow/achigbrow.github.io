@@ -1,5 +1,5 @@
 
-<img src="https://achigbrow.github.io/img/LaurenCheriePhotography___-12.jpg" width="200" align="left" style="float: left" hspce="35" vspace="35">
+<img src="https://achigbrow.github.io/img/LaurenCheriePhotography___-12.jpg" width="200" align="left" style="float: left" hspce="75" vspace="205">
 
 
 
